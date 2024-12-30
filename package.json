@@ -1,0 +1,44 @@
+{
+  "name": "react-screen-reader-support",
+  "version": "1.0.0",
+  "description": "Provides a simple way to implement live regions and dynamic content updates for better screen reader support in React.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marawanthedev/react-screen-reader-support.git"
+  },
+  "keywords": [
+    "screen",
+    "reader",
+    "a11y",
+    "live",
+    "region",
+    "react",
+    "accessibility",
+    "a11y-react",
+    "web",
+    "accessibility"
+  ],
+  "author": "Marwan Mostafa Taha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marawanthedev/react-screen-reader-support/issues"
+  },
+  "homepage": "https://github.com/marawanthedev/react-screen-reader-support#readme"
+}
